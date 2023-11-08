@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:shopping_list/widgets/left_drawer.dart';
+// TODO: Impor drawer yang sudah dibuat sebelumnya
 
 class ShopFormPage extends StatefulWidget {
   const ShopFormPage({super.key});
